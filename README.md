@@ -74,7 +74,6 @@
 <h2 align="center">🏆 Achievements & Activity</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=davidyy8&theme=dracula&hide_border=false" height="150" alt="GitHub Streak Stats" />
   <img src="https://github-profile-trophy.vercel.app?username=davidyy8&theme=dracula&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
 </div>
 
