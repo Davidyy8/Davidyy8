@@ -80,17 +80,6 @@
 
 ---
 
-<h2 align="center">🎮 Fun Contribution Graph</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davidyy8/Davidyy8/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davidyy8/Davidyy8/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Davidyy8/Davidyy8/output/pacman-contribution-graph.svg">
-</picture>
-
-
----
-
 <p align="center">
   🚀 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 </p>
